@@ -1,0 +1,19 @@
+SDLLauncher Readme - (c) 2025 josha254 / Josh A. - https://josite.neocities.org
+
+---
+
+Welcome to SDLLauncher.
+
+This is software that runs SpotDL with the correct arguments to save you time and effort. Please have it installed on your computer **via Python's PIP** before using it - read how to at https://spotdl.readthedocs.io/en/latest/installation/.
+
+To use it, you will need a Spotify link OR search query, and to prepare the directory you'll have the music in.
+
+When prompted, enter the search query or Spotify link and press RETURN. Then, enter the directory to download music to and press RETURN.
+
+When a valid directory is entered, SpotDL will be executed and will immediately begin downloading music to the directory entered. Make sure you entered the directory correctly!
+
+If you enter an invalid directory, don't worry. SDLLauncher will detect the exit code and stop SpotDL from running, and red text saying "cd failed" will flash on the screen.
+
+This software is licenced under the GNU GPL v3. It allows you to do whatever you want to the software, but you must credit the original work to its author. It's the LICENCE file in whatever directory the software is in.
+
+Please note that if entering a search query, the first result will be downloaded.
