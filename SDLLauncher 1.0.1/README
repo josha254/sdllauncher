@@ -4,6 +4,8 @@ SDLLauncher Readme - (c) 2025 josha254 / Josh A. - https://josite.neocities.org
 
 Welcome to SDLLauncher.
 
+!!! PLEASE NOTE !!! If SpotDL returns "YT-DLP download error" - Update both "spotdl" and "yt-dlp" pip packages!!
+
 This is software that runs SpotDL with the correct arguments to save you time and effort. Please have it installed on your computer **via Python's PIP** before using it - read how to at https://spotdl.readthedocs.io/en/latest/installation/.
 
 To use it, you will need a Spotify link OR search query, and to prepare the directory you'll have the music in.
