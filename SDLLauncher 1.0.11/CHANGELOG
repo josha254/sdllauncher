@@ -1,0 +1,5 @@
+1.0.0 - prerelease
+
+1.0.1 - Changed program to have no cd output, increasing user friendliness - also appended a section to README about search queries.
+
+1.0.2 - Added dependency update script, and added README section about updating dependencies.
